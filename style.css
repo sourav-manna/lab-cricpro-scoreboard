@@ -8,10 +8,6 @@ html{
 	
 }
 
-body{
-	width: 100%;
-}
-
 .container{
 	margin-left: 5%;
 	margin-left: 5%;
@@ -48,8 +44,8 @@ td{
 	font-weight: bold;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	padding-left: 10px;
-	padding-right: 2%;
+	padding-left: 8px;
+	padding-right: 10px;
 }
 tr{
 	border-bottom: 0.5pt solid rgba(128, 128, 128, 0.422);
@@ -105,7 +101,7 @@ a{
 }
 
 .data,.data1{
-	width: 400px !important;
+	width: 500px !important;
 }
 
 
