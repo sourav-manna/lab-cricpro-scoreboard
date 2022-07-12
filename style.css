@@ -10,7 +10,7 @@ html{
 
 .container{
 	margin-left: 5%;
-	margin-left: 5%;
+	margin-right: 5%;
 }
 
 .header{
@@ -94,6 +94,7 @@ a{
 	text-decoration: none;
 	color: rgb(0, 187, 255);
 	font-weight: lighter;
+	cursor: pointer;
 }
 
 .hidden{
